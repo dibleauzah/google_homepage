@@ -1,5 +1,3 @@
-#Definitely still a work in progress!#
-
 <main>
 
 <ul>
@@ -8,7 +6,14 @@
   <li><a href="contact.asp">Gmail</a></li>
   <li><a href="about.asp">Images</a></li>
 </ul>
-
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 <img src=https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png>
 
 </main>
